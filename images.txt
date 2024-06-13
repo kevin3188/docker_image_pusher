@@ -1,1 +1,1 @@
-liyuanbiao/sing-box:latest
+--platform=linux/amd64 liyuanbiao/sing-box:latest
